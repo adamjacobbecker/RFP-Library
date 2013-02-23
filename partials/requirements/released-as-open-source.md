@@ -1,0 +1,3 @@
+Either before or upon the launch of [PROJECT NAME], the source code for all software developed shall be released on a public online platform such as GitHub, Google Code, SourceForge, etc. The platform should include a way for the public to browse the code, report bugs and issues, and suggest improvements to the code. If the source code contains sensitive information such as passwords or personally identifiable information, a separate version of the code shall be provided with all sensitive information removed.
+
+The contractor will also be responsible for writing a short "README" with instructions for setting up a development environment for the software.
