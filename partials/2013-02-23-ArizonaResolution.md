@@ -6,8 +6,8 @@ In 2010, the Oakland City Council passed the Arizona Resolution in response to S
 
 This prohibits prohibits the city from doing the following:
 
-	1. Entering new or amended contracts for goods or services with companies headquartered in Arizona
-	2. Sending city employees to conferences or events taking place in Arizona
+1. Entering new or amended contracts for goods or services with companies headquartered in Arizona
+2. Sending city employees to conferences or events taking place in Arizona
     
 The resolution required the city to review its existing contracts with companies headquartered in Arizona to determine whether it is possible to end those contracts. 
 
