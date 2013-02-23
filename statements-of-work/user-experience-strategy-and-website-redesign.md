@@ -38,6 +38,7 @@ Initial design elements to be incorporated into the current [WEBSITE NAME] infra
 ##### Deliverable #5
 Complete redesign of [WEBSITE NAME] and templates for outreach materials. This includes the complete website, features, applications, blog, social media, mobile, email and newsletters, and any items deemed best to connect with the audiences identified in Deliverable Product #1.
 
+// @todo make language more generic (or add more examples besides Drupal)
 Alongside the redesign process, [WEBSITE NAME] will be migrated into an Open Source Content Management System (likely Drupal) and the selected vendor will be required to work with the back end development team(s) in order to incorporate the [WEBSITE NAME] User Experience Strategy. The selected vendor will also be responsible for the front end development and programming required to successfully execute any of the redesigned [WEBSITE NAME] materials such as cut up, markup, CSS, scripting, etc.
 
 Note that this deliverable may be subject to multiple rounds of revisions. [WEBSITE NAME] requires a unique look and feel and creative materials submitted that clearly resemble other government or energy-related sites will not be accepted. Further, all materials are required to be ready for technical implementation upon delivery and [AGENCY NAME] will not approve hours billed to make corrections to templated work or incorrectly formatted items.
