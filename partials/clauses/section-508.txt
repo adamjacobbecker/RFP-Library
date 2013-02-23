@@ -13,4 +13,4 @@ http://www.access-board.gov/sec508/standards.htm
 
 What it means for website developers
 ----
-Section 508 is a federal law mandating that a website is designed so that it can be used as effectively by people with disabilites as by those without. 
+Section 508 is a federal law mandating that a website is designed so that it can be used as effectively by people with disabilites as by those without. Most elements of 508 compliance are achieved by simply following web standards, adding meta-data, and generally ensuring good usability. A common misconception is that Section 508 prohibits the use of JavaScript for rending website content, but recent surveys have shown that modern screen-readers can handle this content just fine.
