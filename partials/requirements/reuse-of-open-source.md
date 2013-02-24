@@ -1,0 +1,1 @@
+[AGENCY] encourages the reuse of open-source software in the development of [PROJECT NAME], as it may reduce cost and lessen the time needed to bring software applications to production.
